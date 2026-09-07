@@ -1,4 +1,4 @@
-# Reserva de Asientos - Sala de Cine
+# Reserva de Asiento - Sala de Cine
 
 Programa en Python que simula la reserva de un asiento en una sala de cine, representada como una matriz de 3 filas por 4 columnas.
 
