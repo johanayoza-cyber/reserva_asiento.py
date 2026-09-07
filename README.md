@@ -23,4 +23,5 @@ Estado de la sala:
 0 0 0 0
 0 0 1 0
 0 0 0 0
+
 Hecho por Marlene Yoza
